@@ -1,2 +1,3 @@
 fqdn~=mytesttagname
 win-10-64-111.corp.mclab.systems~=testvalue1
+db1.corp.mclab.system~=Database
