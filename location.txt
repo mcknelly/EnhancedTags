@@ -1,0 +1,3 @@
+subnet~=location
+10.12.20.0/24~=McLab
+10.0.0.0/24~=Azure
